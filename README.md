@@ -13,7 +13,6 @@ Este projeto é uma landing page, desenvolvido nas aulas de front-end.
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 
-
 ## Descrição do Projeto
 
 ### Como surgiu o Meu Projeto:
@@ -57,7 +56,6 @@ including versions of Lorem Ipsum.
 ## Pessoas Desenvolvedoras do Projeto
 
 [Tereza Oliveira](https://github.com/TerezaOliveira90)
-
 
 
 
